@@ -1,5 +1,5 @@
-<h1>Hello, I’m Matheus👋!</h1>
-<p>Currently, I'm a student in Systems/Software Analyst & Development, trying my best to learn and improve on a daily basis🏃💨</p>
+<h1>Greetings, I’m Matheus👋!</h1>
+<p>I'm from Brazil and, currently, I'm a student in Systems/Software Analyst & Development, trying my best to learn and improve on a daily basis🏃💨</p>
 
 <h2>🛠️Tools I'm using:</h2>
 <p allign=left>
@@ -14,6 +14,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="Csharp" width="32" height="32"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="32" height="32"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="32" height="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Javascript" width="32" height="32"/>        
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="32" height="32"/>       
           
           
